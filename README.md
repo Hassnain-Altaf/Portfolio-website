@@ -25,26 +25,22 @@ Screenshots:
 ## Setup
 
 1.Clone the repository:
- ```bash
-    git https://github.com/Hassnain-Altaf/Portfolio-website.git
-    ```
+  git https://github.com/Hassnain-Altaf/Portfolio-website.git
+  
 2.Navigate to the project directory:
-```bash
-   cd vite-project ```
+   cd vite-project 
 
 3.Install the dependencies:
-```bash
-   npm install ```
+   npm install 
 
 4.Start the development server:
-```bash
-  npm start ```
+  npm start
 
 5.Open your browser and navigate to `http://localhost:5173/` to view the website.
 
 
 
-Contributing:
+# Contributing:
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
 
