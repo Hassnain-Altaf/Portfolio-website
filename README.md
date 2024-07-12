@@ -19,6 +19,9 @@ My portfolio website, built using `React.js+vite`, showcases my projects and des
 - **React Router**: For seamless navigation between different pages.
 - **Material UI**: For building a complete portfolio.
 
+Screenshots:
+![screencapture-localhost-5173-2024-07-12-13_41_36](https://github.com/user-attachments/assets/cb68afd7-0fe6-4814-b720-adc14ca61321)
+
 ## Setup
 
 1.Clone the repository:
@@ -39,8 +42,6 @@ My portfolio website, built using `React.js+vite`, showcases my projects and des
 
 5.Open your browser and navigate to `http://localhost:5173/` to view the website.
 
-Screenshots:
-![screencapture-localhost-5173-2024-07-12-13_41_36](https://github.com/user-attachments/assets/cb68afd7-0fe6-4814-b720-adc14ca61321)
 
 
 Contributing:
