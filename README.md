@@ -26,23 +26,24 @@ My portfolio website, built using `React.js+vite`, showcases my projects and des
     git https://github.com/Hassnain-Altaf/Portfolio-website.git
     ```
 2.Navigate to the project directory:
-cd vite-project
+```bash
+   cd vite-project ```
 
 3.Install the dependencies:
-npm install
+```bash
+   npm install ```
 
 4.Start the development server:
-npm start
+```bash
+  npm start ```
 
 5.Open your browser and navigate to `http://localhost:5173/` to view the website.
 
-Screenshots
+Screenshots:
 ![screencapture-localhost-5173-2024-07-12-13_41_36](https://github.com/user-attachments/assets/cb68afd7-0fe6-4814-b720-adc14ca61321)
 
 
-
-
-Contributing
+Contributing:
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
 
